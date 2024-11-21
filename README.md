@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on You
+[Video Tutorial on Yo
 
 About This Course:
 
